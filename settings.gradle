@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "w6d1_C_Shlace"
