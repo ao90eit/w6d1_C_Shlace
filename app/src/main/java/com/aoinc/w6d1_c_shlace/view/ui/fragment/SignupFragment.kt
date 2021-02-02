@@ -1,4 +1,4 @@
-package com.aoinc.w6d1_c_shlace.view
+package com.aoinc.w6d1_c_shlace.view.ui.fragment
 
 import android.content.Context
 import android.os.Bundle
@@ -11,6 +11,7 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import com.aoinc.w6d1_c_shlace.R
 import com.aoinc.w6d1_c_shlace.model.NewUser
+import com.aoinc.w6d1_c_shlace.view.ui.activity.LoginActivity
 
 class SignupFragment : Fragment() {
 

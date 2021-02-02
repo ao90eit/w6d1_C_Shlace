@@ -1,4 +1,4 @@
-package com.aoinc.w6d1_c_shlace.view
+package com.aoinc.w6d1_c_shlace.view.ui.activity
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
@@ -10,6 +10,7 @@ import android.widget.TextView
 import android.widget.Toast
 import com.aoinc.w6d1_c_shlace.R
 import com.aoinc.w6d1_c_shlace.model.NewUser
+import com.aoinc.w6d1_c_shlace.view.ui.fragment.SignupFragment
 import com.google.firebase.auth.FirebaseAuth
 
 class LoginActivity : AppCompatActivity(), SignupFragment.SignUpDelegate {
