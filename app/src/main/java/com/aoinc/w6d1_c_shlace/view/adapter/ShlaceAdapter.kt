@@ -7,7 +7,7 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.aoinc.w6d1_c_shlace.R
-import com.aoinc.w6d1_c_shlace.model.Shlace
+import com.aoinc.w6d1_c_shlace.model.data.Shlace
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 

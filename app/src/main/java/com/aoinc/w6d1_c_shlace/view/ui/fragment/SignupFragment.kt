@@ -10,7 +10,7 @@ import android.widget.EditText
 import android.widget.Toast
 import androidx.fragment.app.Fragment
 import com.aoinc.w6d1_c_shlace.R
-import com.aoinc.w6d1_c_shlace.model.NewUser
+import com.aoinc.w6d1_c_shlace.model.data.NewUser
 import com.aoinc.w6d1_c_shlace.view.ui.activity.LoginActivity
 
 class SignupFragment : Fragment() {
